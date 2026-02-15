@@ -6,24 +6,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=6000&color=00BFFF&center=true&vCenter=true&width=600&lines=Interested+in+ML+%26+Data+Analytics" alt="Typing SVG" />
 </p>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=Python+%26+ML+Learner" alt="Typing SVG" />
-</p>
-
-
 <img align="right" alt="coding" width="200" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Learning the basics of Machine Learning, Data Analysis & Data Science  
-- 🐍 Improving my Python skills and understanding important ML concepts  
-- 🛠️ Working on small projects to improve my problem-solving skills  
-- 📊 Practicing how to handle and analyze data in a proper way  
-- 🤖 Interested in building AI, ML, and Data Science projects  
-- 🚀 Focused on continuous learning and improving step by step  
+ 🎓 Learning the basics of Machine Learning, Data Analysis & Data Science  
+ 🐍 Improving my Python skills and understanding important ML concepts  
+ 🛠️ Working on small projects to improve my problem-solving skills  
+ 📊 Practicing how to handle and analyze data in a proper way  
+ 🤖 Interested in building AI, ML, and Data Science projects  
+ 🚀 Focused on continuous learning and improving step by step  
 
 
 ---
