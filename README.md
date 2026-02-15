@@ -17,12 +17,14 @@
 ---
 
 ## 👨‍💻 About Me
-🎓 Learning the basics of Machine Learning, Data Analysis & Data Science.
-🐍 Improving my Python skills and understanding important ML concepts
-🛠️ Working on small projects to improve my problem-solving skills
-📊 Practicing how to handle and analyze data in a proper way
-🤖 Interested in building AI, ML, and Data Science projects
-🚀 Focused on continuous learning and improving step by step
+
+- 🎓 Learning the basics of Machine Learning, Data Analysis & Data Science  
+- 🐍 Improving my Python skills and understanding important ML concepts  
+- 🛠️ Working on small projects to improve my problem-solving skills  
+- 📊 Practicing how to handle and analyze data in a proper way  
+- 🤖 Interested in building AI, ML, and Data Science projects  
+- 🚀 Focused on continuous learning and improving step by step  
+
 
 ---
 
