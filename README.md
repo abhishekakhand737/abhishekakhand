@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Akhand</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
+<img align="right" alt="coding" width="200" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekakhand737&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekakhand737" /> </p>
 
