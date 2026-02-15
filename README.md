@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekakhand737" alt="abhishekakhand737" /></a> </p>
 
-- 💬 Ask me about **Android,C,html.**
+- 💬 Ask me about **C,C++,Python,html,**
 
 - 📫 How to reach me **abhishekakhand13@gmail.com**
 
