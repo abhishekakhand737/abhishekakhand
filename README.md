@@ -9,8 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
-<img align="right" alt="coding" width="100" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
-
+<img align="right" alt="coding" width="160" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
  🎓 Learning the basics of Machine Learning, Data Analysis & Data Science  
  🐍 Improving my Python skills and understanding important ML concepts  
  🛠️ Working on small projects to improve my problem-solving skills  
