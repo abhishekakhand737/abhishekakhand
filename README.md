@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=8000&pause=6000&color=00BFFF&center=true&vCenter=true&width=600&lines=Interested+in+ML+%26+Data+Analytics" alt="Typing SVG" />
 </p>
-
 <img align="right" alt="coding" width="100" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
 
 ---
