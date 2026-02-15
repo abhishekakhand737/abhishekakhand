@@ -61,7 +61,7 @@
 ---
 
 <h3 align="center">
-⭐ “Code. Learn. Build. Repeat.”!
+⭐ “Code. Learn. Build. Repeat.”
 </h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekakhand737&" alt="abhishekakhand737" /></p>
